@@ -1,2 +1,4 @@
 # Arduino-Fade-LEDs-with-Class
-Use of a Class to control the fade in and ou of several LEDs independently.
+Built Class to control the fade in and ou of several LEDs independently.
+
+The methods are still work in progress and most of the comments are in portuguese.
